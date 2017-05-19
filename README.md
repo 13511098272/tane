@@ -1,0 +1,2 @@
+# tane
+some study infomations
